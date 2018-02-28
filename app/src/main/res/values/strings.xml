@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Intent7</string>
     <string name="source">source code desta tela</string>
-    <string name="sourcecode">ver source code</string>
+    <string name="sourcecode">ver código desta tela</string>
 </resources>
